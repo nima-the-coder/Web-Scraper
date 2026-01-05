@@ -1,0 +1,583 @@
+﻿name,year,wins,losses
+Boston Bruins,1990,44,24
+Buffalo Sabres,1990,31,30
+Calgary Flames,1990,46,26
+Chicago Blackhawks,1990,49,23
+Detroit Red Wings,1990,34,38
+Edmonton Oilers,1990,37,37
+Hartford Whalers,1990,31,38
+Los Angeles Kings,1990,46,24
+Minnesota North Stars,1990,27,39
+Montreal Canadiens,1990,39,30
+New Jersey Devils,1990,32,33
+New York Islanders,1990,25,45
+New York Rangers,1990,36,31
+Philadelphia Flyers,1990,33,37
+Pittsburgh Penguins,1990,41,33
+Quebec Nordiques,1990,16,50
+St. Louis Blues,1990,47,22
+Toronto Maple Leafs,1990,23,46
+Vancouver Canucks,1990,28,43
+Washington Capitals,1990,37,36
+Winnipeg Jets,1990,26,43
+Boston Bruins,1991,36,32
+Buffalo Sabres,1991,31,37
+Calgary Flames,1991,31,37
+Chicago Blackhawks,1991,36,29
+Detroit Red Wings,1991,43,25
+Edmonton Oilers,1991,36,34
+Hartford Whalers,1991,26,41
+Los Angeles Kings,1991,35,31
+Minnesota North Stars,1991,32,42
+Montreal Canadiens,1991,41,28
+New Jersey Devils,1991,38,31
+New York Islanders,1991,34,35
+New York Rangers,1991,50,25
+Philadelphia Flyers,1991,32,37
+Pittsburgh Penguins,1991,39,32
+Quebec Nordiques,1991,20,48
+San Jose Sharks,1991,17,58
+St. Louis Blues,1991,36,33
+Toronto Maple Leafs,1991,30,43
+Vancouver Canucks,1991,42,26
+Washington Capitals,1991,45,27
+Winnipeg Jets,1991,33,32
+Boston Bruins,1992,51,26
+Buffalo Sabres,1992,38,36
+Calgary Flames,1992,43,30
+Chicago Blackhawks,1992,47,25
+Detroit Red Wings,1992,47,28
+Edmonton Oilers,1992,26,50
+Hartford Whalers,1992,26,52
+Los Angeles Kings,1992,39,35
+Minnesota North Stars,1992,36,38
+Montreal Canadiens,1992,48,30
+New Jersey Devils,1992,40,37
+New York Islanders,1992,40,37
+New York Rangers,1992,34,39
+Ottawa Senators,1992,10,70
+Philadelphia Flyers,1992,36,37
+Pittsburgh Penguins,1992,56,21
+Quebec Nordiques,1992,47,27
+San Jose Sharks,1992,11,71
+St. Louis Blues,1992,37,36
+Tampa Bay Lightning,1992,23,54
+Toronto Maple Leafs,1992,44,29
+Vancouver Canucks,1992,46,29
+Washington Capitals,1992,43,34
+Winnipeg Jets,1992,40,37
+Mighty Ducks of Anaheim,1993,33,46
+Boston Bruins,1993,42,29
+Buffalo Sabres,1993,43,32
+Calgary Flames,1993,42,29
+Chicago Blackhawks,1993,39,36
+Dallas Stars,1993,42,29
+Detroit Red Wings,1993,46,30
+Edmonton Oilers,1993,25,45
+Florida Panthers,1993,33,34
+Hartford Whalers,1993,27,48
+Los Angeles Kings,1993,27,45
+Montreal Canadiens,1993,41,29
+New Jersey Devils,1993,47,25
+New York Islanders,1993,36,36
+New York Rangers,1993,52,24
+Ottawa Senators,1993,14,61
+Philadelphia Flyers,1993,35,39
+Pittsburgh Penguins,1993,44,27
+Quebec Nordiques,1993,34,42
+San Jose Sharks,1993,33,35
+St. Louis Blues,1993,40,33
+Tampa Bay Lightning,1993,30,43
+Toronto Maple Leafs,1993,43,29
+Vancouver Canucks,1993,41,40
+Washington Capitals,1993,39,35
+Winnipeg Jets,1993,24,51
+Mighty Ducks of Anaheim,1994,16,27
+Boston Bruins,1994,27,18
+Buffalo Sabres,1994,22,19
+Calgary Flames,1994,24,17
+Chicago Blackhawks,1994,24,19
+Dallas Stars,1994,17,23
+Detroit Red Wings,1994,33,11
+Edmonton Oilers,1994,17,27
+Florida Panthers,1994,20,22
+Hartford Whalers,1994,19,24
+Los Angeles Kings,1994,16,23
+Montreal Canadiens,1994,18,23
+New Jersey Devils,1994,22,18
+New York Islanders,1994,15,28
+New York Rangers,1994,22,23
+Ottawa Senators,1994,9,34
+Philadelphia Flyers,1994,28,16
+Pittsburgh Penguins,1994,29,16
+Quebec Nordiques,1994,30,13
+San Jose Sharks,1994,19,25
+St. Louis Blues,1994,28,15
+Tampa Bay Lightning,1994,17,28
+Toronto Maple Leafs,1994,21,19
+Vancouver Canucks,1994,18,18
+Washington Capitals,1994,22,18
+Winnipeg Jets,1994,16,25
+Mighty Ducks of Anaheim,1995,35,39
+Boston Bruins,1995,40,31
+Buffalo Sabres,1995,33,42
+Calgary Flames,1995,34,37
+Chicago Blackhawks,1995,40,28
+Colorado Avalanche,1995,47,25
+Dallas Stars,1995,26,42
+Detroit Red Wings,1995,62,13
+Edmonton Oilers,1995,30,44
+Florida Panthers,1995,41,31
+Hartford Whalers,1995,34,39
+Los Angeles Kings,1995,24,40
+Montreal Canadiens,1995,40,32
+New Jersey Devils,1995,37,33
+New York Islanders,1995,22,50
+New York Rangers,1995,41,27
+Ottawa Senators,1995,18,59
+Philadelphia Flyers,1995,45,24
+Pittsburgh Penguins,1995,49,29
+San Jose Sharks,1995,20,55
+St. Louis Blues,1995,32,34
+Tampa Bay Lightning,1995,38,32
+Toronto Maple Leafs,1995,34,36
+Vancouver Canucks,1995,32,35
+Washington Capitals,1995,39,32
+Winnipeg Jets,1995,36,40
+Mighty Ducks of Anaheim,1996,36,33
+Boston Bruins,1996,26,47
+Buffalo Sabres,1996,40,30
+Calgary Flames,1996,32,41
+Chicago Blackhawks,1996,34,35
+Colorado Avalanche,1996,49,24
+Dallas Stars,1996,48,26
+Detroit Red Wings,1996,38,26
+Edmonton Oilers,1996,36,37
+Florida Panthers,1996,35,28
+Hartford Whalers,1996,32,39
+Los Angeles Kings,1996,28,43
+Montreal Canadiens,1996,31,36
+New Jersey Devils,1996,45,23
+New York Islanders,1996,29,41
+New York Rangers,1996,38,34
+Ottawa Senators,1996,31,36
+Philadelphia Flyers,1996,45,24
+Phoenix Coyotes,1996,38,37
+Pittsburgh Penguins,1996,38,36
+San Jose Sharks,1996,27,47
+St. Louis Blues,1996,36,35
+Tampa Bay Lightning,1996,32,40
+Toronto Maple Leafs,1996,30,44
+Vancouver Canucks,1996,35,40
+Washington Capitals,1996,33,40
+Mighty Ducks of Anaheim,1997,26,43
+Boston Bruins,1997,39,30
+Buffalo Sabres,1997,36,29
+Calgary Flames,1997,26,41
+Carolina Hurricanes,1997,33,41
+Chicago Blackhawks,1997,30,39
+Colorado Avalanche,1997,39,26
+Dallas Stars,1997,49,22
+Detroit Red Wings,1997,44,23
+Edmonton Oilers,1997,35,37
+Florida Panthers,1997,24,43
+Los Angeles Kings,1997,38,33
+Montreal Canadiens,1997,37,32
+New Jersey Devils,1997,48,23
+New York Islanders,1997,30,41
+New York Rangers,1997,25,39
+Ottawa Senators,1997,34,33
+Philadelphia Flyers,1997,42,29
+Phoenix Coyotes,1997,35,35
+Pittsburgh Penguins,1997,40,24
+San Jose Sharks,1997,34,38
+St. Louis Blues,1997,45,29
+Tampa Bay Lightning,1997,17,55
+Toronto Maple Leafs,1997,30,43
+Vancouver Canucks,1997,25,43
+Washington Capitals,1997,40,30
+Mighty Ducks of Anaheim,1998,35,34
+Boston Bruins,1998,39,30
+Buffalo Sabres,1998,37,28
+Calgary Flames,1998,30,40
+Carolina Hurricanes,1998,34,30
+Chicago Blackhawks,1998,29,41
+Colorado Avalanche,1998,44,28
+Dallas Stars,1998,51,19
+Detroit Red Wings,1998,43,32
+Edmonton Oilers,1998,33,37
+Florida Panthers,1998,30,34
+Los Angeles Kings,1998,32,45
+Montreal Canadiens,1998,32,39
+Nashville Predators,1998,28,47
+New Jersey Devils,1998,47,24
+New York Islanders,1998,24,48
+New York Rangers,1998,33,38
+Ottawa Senators,1998,44,23
+Philadelphia Flyers,1998,37,26
+Phoenix Coyotes,1998,39,31
+Pittsburgh Penguins,1998,38,30
+San Jose Sharks,1998,31,33
+St. Louis Blues,1998,37,32
+Tampa Bay Lightning,1998,19,54
+Toronto Maple Leafs,1998,45,30
+Vancouver Canucks,1998,23,47
+Washington Capitals,1998,31,45
+Mighty Ducks of Anaheim,1999,34,33
+Atlanta Thrashers,1999,14,57
+Boston Bruins,1999,24,33
+Buffalo Sabres,1999,35,32
+Calgary Flames,1999,31,36
+Carolina Hurricanes,1999,37,35
+Chicago Blackhawks,1999,33,37
+Colorado Avalanche,1999,42,28
+Dallas Stars,1999,43,23
+Detroit Red Wings,1999,48,22
+Edmonton Oilers,1999,32,26
+Florida Panthers,1999,43,27
+Los Angeles Kings,1999,39,27
+Montreal Canadiens,1999,35,34
+Nashville Predators,1999,28,40
+New Jersey Devils,1999,45,24
+New York Islanders,1999,24,48
+New York Rangers,1999,29,38
+Ottawa Senators,1999,41,28
+Philadelphia Flyers,1999,45,22
+Phoenix Coyotes,1999,39,31
+Pittsburgh Penguins,1999,37,31
+San Jose Sharks,1999,35,30
+St. Louis Blues,1999,51,19
+Tampa Bay Lightning,1999,19,47
+Toronto Maple Leafs,1999,45,27
+Vancouver Canucks,1999,30,29
+Washington Capitals,1999,44,24
+Mighty Ducks of Anaheim,2000,25,41
+Atlanta Thrashers,2000,23,45
+Boston Bruins,2000,36,30
+Buffalo Sabres,2000,46,30
+Calgary Flames,2000,27,36
+Carolina Hurricanes,2000,38,32
+Columbus Blue Jackets,2000,28,39
+Chicago Blackhawks,2000,29,40
+Colorado Avalanche,2000,52,16
+Dallas Stars,2000,48,24
+Detroit Red Wings,2000,49,20
+Edmonton Oilers,2000,39,28
+Florida Panthers,2000,22,38
+Los Angeles Kings,2000,38,28
+Minnesota Wild,2000,25,39
+Montreal Canadiens,2000,28,40
+Nashville Predators,2000,34,36
+New Jersey Devils,2000,48,19
+New York Islanders,2000,21,51
+New York Rangers,2000,33,43
+Ottawa Senators,2000,48,21
+Philadelphia Flyers,2000,43,25
+Phoenix Coyotes,2000,35,27
+Pittsburgh Penguins,2000,42,28
+San Jose Sharks,2000,40,27
+St. Louis Blues,2000,43,22
+Tampa Bay Lightning,2000,24,47
+Toronto Maple Leafs,2000,37,29
+Vancouver Canucks,2000,36,28
+Washington Capitals,2000,41,27
+Mighty Ducks of Anaheim,2001,29,42
+Atlanta Thrashers,2001,19,47
+Boston Bruins,2001,43,24
+Buffalo Sabres,2001,35,35
+Calgary Flames,2001,32,35
+Carolina Hurricanes,2001,35,26
+Columbus Blue Jackets,2001,22,47
+Chicago Blackhawks,2001,41,27
+Colorado Avalanche,2001,45,28
+Dallas Stars,2001,36,28
+Detroit Red Wings,2001,51,17
+Edmonton Oilers,2001,38,28
+Florida Panthers,2001,22,44
+Los Angeles Kings,2001,40,27
+Minnesota Wild,2001,26,35
+Montreal Canadiens,2001,36,31
+Nashville Predators,2001,28,41
+New Jersey Devils,2001,41,28
+New York Islanders,2001,42,28
+New York Rangers,2001,36,38
+Ottawa Senators,2001,39,27
+Philadelphia Flyers,2001,42,27
+Phoenix Coyotes,2001,40,27
+Pittsburgh Penguins,2001,28,41
+San Jose Sharks,2001,44,27
+St. Louis Blues,2001,43,27
+Tampa Bay Lightning,2001,27,40
+Toronto Maple Leafs,2001,43,25
+Vancouver Canucks,2001,42,30
+Washington Capitals,2001,36,33
+Mighty Ducks of Anaheim,2002,40,27
+Atlanta Thrashers,2002,31,39
+Boston Bruins,2002,36,31
+Buffalo Sabres,2002,27,37
+Calgary Flames,2002,29,36
+Carolina Hurricanes,2002,22,43
+Columbus Blue Jackets,2002,29,42
+Chicago Blackhawks,2002,30,33
+Colorado Avalanche,2002,42,19
+Dallas Stars,2002,46,17
+Detroit Red Wings,2002,48,20
+Edmonton Oilers,2002,36,26
+Florida Panthers,2002,24,36
+Los Angeles Kings,2002,33,37
+Minnesota Wild,2002,42,29
+Montreal Canadiens,2002,30,35
+Nashville Predators,2002,27,35
+New Jersey Devils,2002,46,20
+New York Islanders,2002,35,34
+New York Rangers,2002,32,36
+Ottawa Senators,2002,52,21
+Philadelphia Flyers,2002,45,20
+Phoenix Coyotes,2002,31,35
+Pittsburgh Penguins,2002,27,44
+San Jose Sharks,2002,28,37
+St. Louis Blues,2002,41,24
+Tampa Bay Lightning,2002,36,25
+Toronto Maple Leafs,2002,44,28
+Vancouver Canucks,2002,45,23
+Washington Capitals,2002,39,29
+Mighty Ducks of Anaheim,2003,29,35
+Atlanta Thrashers,2003,33,37
+Boston Bruins,2003,41,19
+Buffalo Sabres,2003,37,34
+Calgary Flames,2003,42,30
+Carolina Hurricanes,2003,28,34
+Columbus Blue Jackets,2003,25,45
+Chicago Blackhawks,2003,20,43
+Colorado Avalanche,2003,40,22
+Dallas Stars,2003,41,26
+Detroit Red Wings,2003,48,21
+Edmonton Oilers,2003,36,29
+Florida Panthers,2003,28,35
+Los Angeles Kings,2003,28,29
+Minnesota Wild,2003,30,29
+Montreal Canadiens,2003,41,30
+Nashville Predators,2003,38,29
+New Jersey Devils,2003,43,25
+New York Islanders,2003,38,29
+New York Rangers,2003,27,40
+Ottawa Senators,2003,43,23
+Philadelphia Flyers,2003,40,21
+Phoenix Coyotes,2003,22,36
+Pittsburgh Penguins,2003,23,47
+San Jose Sharks,2003,43,21
+St. Louis Blues,2003,39,30
+Tampa Bay Lightning,2003,46,22
+Toronto Maple Leafs,2003,45,24
+Vancouver Canucks,2003,43,24
+Washington Capitals,2003,23,46
+Mighty Ducks of Anaheim,2005,43,27
+Atlanta Thrashers,2005,41,33
+Boston Bruins,2005,29,37
+Buffalo Sabres,2005,52,24
+Calgary Flames,2005,46,25
+Carolina Hurricanes,2005,52,22
+Columbus Blue Jackets,2005,35,43
+Chicago Blackhawks,2005,26,43
+Colorado Avalanche,2005,43,30
+Dallas Stars,2005,53,23
+Detroit Red Wings,2005,58,16
+Edmonton Oilers,2005,41,28
+Florida Panthers,2005,37,34
+Los Angeles Kings,2005,42,35
+Minnesota Wild,2005,38,36
+Montreal Canadiens,2005,42,31
+Nashville Predators,2005,49,25
+New Jersey Devils,2005,46,27
+New York Islanders,2005,36,40
+New York Rangers,2005,44,26
+Ottawa Senators,2005,52,21
+Philadelphia Flyers,2005,45,26
+Phoenix Coyotes,2005,38,39
+Pittsburgh Penguins,2005,22,46
+San Jose Sharks,2005,44,27
+St. Louis Blues,2005,21,46
+Tampa Bay Lightning,2005,43,33
+Toronto Maple Leafs,2005,41,33
+Vancouver Canucks,2005,42,32
+Washington Capitals,2005,29,41
+Anaheim Ducks,2006,48,20
+Atlanta Thrashers,2006,43,28
+Boston Bruins,2006,35,41
+Buffalo Sabres,2006,53,22
+Calgary Flames,2006,43,29
+Carolina Hurricanes,2006,40,34
+Columbus Blue Jackets,2006,33,42
+Chicago Blackhawks,2006,31,42
+Colorado Avalanche,2006,44,31
+Dallas Stars,2006,50,25
+Detroit Red Wings,2006,50,19
+Edmonton Oilers,2006,32,43
+Florida Panthers,2006,35,31
+Los Angeles Kings,2006,27,41
+Minnesota Wild,2006,48,26
+Montreal Canadiens,2006,42,34
+Nashville Predators,2006,51,23
+New Jersey Devils,2006,49,24
+New York Islanders,2006,40,30
+New York Rangers,2006,42,30
+Ottawa Senators,2006,48,25
+Philadelphia Flyers,2006,22,48
+Phoenix Coyotes,2006,31,46
+Pittsburgh Penguins,2006,47,24
+San Jose Sharks,2006,51,26
+St. Louis Blues,2006,34,35
+Tampa Bay Lightning,2006,44,33
+Toronto Maple Leafs,2006,40,31
+Vancouver Canucks,2006,49,26
+Washington Capitals,2006,28,40
+Anaheim Ducks,2007,47,27
+Atlanta Thrashers,2007,34,40
+Boston Bruins,2007,41,29
+Buffalo Sabres,2007,39,31
+Calgary Flames,2007,42,30
+Carolina Hurricanes,2007,43,33
+Columbus Blue Jackets,2007,34,36
+Chicago Blackhawks,2007,40,34
+Colorado Avalanche,2007,44,31
+Dallas Stars,2007,45,30
+Detroit Red Wings,2007,54,21
+Edmonton Oilers,2007,41,35
+Florida Panthers,2007,38,35
+Los Angeles Kings,2007,32,43
+Minnesota Wild,2007,44,28
+Montreal Canadiens,2007,47,25
+Nashville Predators,2007,41,32
+New Jersey Devils,2007,46,29
+New York Islanders,2007,35,38
+New York Rangers,2007,42,27
+Ottawa Senators,2007,43,31
+Philadelphia Flyers,2007,42,29
+Phoenix Coyotes,2007,38,37
+Pittsburgh Penguins,2007,47,27
+San Jose Sharks,2007,49,23
+St. Louis Blues,2007,33,36
+Tampa Bay Lightning,2007,31,42
+Toronto Maple Leafs,2007,36,35
+Vancouver Canucks,2007,39,33
+Washington Capitals,2007,43,31
+Anaheim Ducks,2008,42,33
+Atlanta Thrashers,2008,35,41
+Boston Bruins,2008,53,19
+Buffalo Sabres,2008,41,32
+Calgary Flames,2008,46,30
+Carolina Hurricanes,2008,45,30
+Columbus Blue Jackets,2008,41,31
+Chicago Blackhawks,2008,46,24
+Colorado Avalanche,2008,32,45
+Dallas Stars,2008,36,35
+Detroit Red Wings,2008,51,21
+Edmonton Oilers,2008,38,35
+Florida Panthers,2008,41,30
+Los Angeles Kings,2008,34,37
+Minnesota Wild,2008,40,33
+Montreal Canadiens,2008,41,30
+Nashville Predators,2008,40,34
+New Jersey Devils,2008,51,27
+New York Islanders,2008,26,47
+New York Rangers,2008,43,30
+Ottawa Senators,2008,36,35
+Philadelphia Flyers,2008,44,27
+Phoenix Coyotes,2008,36,39
+Pittsburgh Penguins,2008,45,28
+San Jose Sharks,2008,53,18
+St. Louis Blues,2008,41,31
+Tampa Bay Lightning,2008,24,40
+Toronto Maple Leafs,2008,34,35
+Vancouver Canucks,2008,45,27
+Washington Capitals,2008,50,24
+Anaheim Ducks,2009,39,32
+Atlanta Thrashers,2009,35,34
+Boston Bruins,2009,39,30
+Buffalo Sabres,2009,45,27
+Calgary Flames,2009,40,32
+Carolina Hurricanes,2009,35,37
+Columbus Blue Jackets,2009,32,35
+Chicago Blackhawks,2009,52,22
+Colorado Avalanche,2009,43,30
+Dallas Stars,2009,37,31
+Detroit Red Wings,2009,44,24
+Edmonton Oilers,2009,27,47
+Florida Panthers,2009,32,37
+Los Angeles Kings,2009,46,27
+Minnesota Wild,2009,38,36
+Montreal Canadiens,2009,39,33
+Nashville Predators,2009,47,29
+New Jersey Devils,2009,48,27
+New York Islanders,2009,34,37
+New York Rangers,2009,38,33
+Ottawa Senators,2009,44,32
+Philadelphia Flyers,2009,41,35
+Phoenix Coyotes,2009,50,25
+Pittsburgh Penguins,2009,47,28
+San Jose Sharks,2009,51,20
+St. Louis Blues,2009,40,32
+Tampa Bay Lightning,2009,34,36
+Toronto Maple Leafs,2009,30,38
+Vancouver Canucks,2009,49,28
+Washington Capitals,2009,54,15
+Anaheim Ducks,2010,47,30
+Atlanta Thrashers,2010,34,36
+Boston Bruins,2010,46,25
+Buffalo Sabres,2010,43,29
+Calgary Flames,2010,41,29
+Carolina Hurricanes,2010,40,31
+Columbus Blue Jackets,2010,34,35
+Chicago Blackhawks,2010,44,29
+Colorado Avalanche,2010,30,44
+Dallas Stars,2010,42,29
+Detroit Red Wings,2010,47,25
+Edmonton Oilers,2010,25,45
+Florida Panthers,2010,30,40
+Los Angeles Kings,2010,46,30
+Minnesota Wild,2010,39,35
+Montreal Canadiens,2010,44,30
+Nashville Predators,2010,44,27
+New Jersey Devils,2010,38,39
+New York Islanders,2010,30,39
+New York Rangers,2010,44,33
+Ottawa Senators,2010,32,40
+Philadelphia Flyers,2010,47,23
+Phoenix Coyotes,2010,43,26
+Pittsburgh Penguins,2010,49,25
+San Jose Sharks,2010,48,25
+St. Louis Blues,2010,38,33
+Tampa Bay Lightning,2010,46,25
+Toronto Maple Leafs,2010,37,34
+Vancouver Canucks,2010,54,19
+Washington Capitals,2010,48,23
+Anaheim Ducks,2011,34,36
+Boston Bruins,2011,49,29
+Buffalo Sabres,2011,39,32
+Calgary Flames,2011,37,29
+Carolina Hurricanes,2011,33,33
+Columbus Blue Jackets,2011,29,46
+Chicago Blackhawks,2011,45,26
+Colorado Avalanche,2011,41,35
+Dallas Stars,2011,42,35
+Detroit Red Wings,2011,48,28
+Edmonton Oilers,2011,32,40
+Florida Panthers,2011,38,26
+Los Angeles Kings,2011,40,27
+Minnesota Wild,2011,35,36
+Montreal Canadiens,2011,31,35
+Nashville Predators,2011,48,26
+New Jersey Devils,2011,48,28
+New York Islanders,2011,34,37
+New York Rangers,2011,51,24
+Ottawa Senators,2011,41,31
+Philadelphia Flyers,2011,47,26
+Phoenix Coyotes,2011,42,27
+Pittsburgh Penguins,2011,51,25
+San Jose Sharks,2011,43,29
+St. Louis Blues,2011,49,22
+Tampa Bay Lightning,2011,38,36
+Toronto Maple Leafs,2011,35,37
+Vancouver Canucks,2011,51,22
+Washington Capitals,2011,42,32
+Winnipeg Jets,2011,37,35
